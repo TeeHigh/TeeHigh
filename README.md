@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @TeeHigh
-- 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on amazing projects
-- 📫 How to reach me instagram @tee._high twitter @tee__high
+- 👋 Hi, I’m Ifeoluwase
+- 👀 I’m a Front End Web Developer
+- Proficient in HTML, CSS, Javascript and SASS
 
 <!---
 TeeHigh/TeeHigh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
