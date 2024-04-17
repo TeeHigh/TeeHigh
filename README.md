@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ifeoluwase
-- 👀 I’m a third-year computer science student.
+- 🎓 I’m a third-year computer science student.
 - Worked on different levels with HTML, CSS, Javascript, SASS, Tailwind, React, Python, Java, C++, Typescript.
 
 <!---
