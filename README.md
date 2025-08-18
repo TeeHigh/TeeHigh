@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🛠️ Technologies & Tools  
 - **Languages:** HTML, CSS, JavaScript, TypeScript, Python, Java, C++.  
-- **Frameworks:** Tailwind, SASS/SCSS, Styled Components, React, Angular 
+- **Frameworks:** Tailwind, SASS/SCSS, Styled Components, React, Angular, Django 
 - **Tools:** Git, Supabase, Azure DevOps, Figma 
 
 ---
