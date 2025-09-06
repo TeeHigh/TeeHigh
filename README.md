@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 🎓 **I am a Software Engineer**
 
 🌟 Passionate about Web Development (Fullstack) and Machine Learning. 
-<!--🌱 Currently learning **[Skills/Technologies]**  -->
+🌱 Currently learning **Backend Development** with Django
 <!-- 🚀 Building **[Projects or Goals]**  --> 
 
 
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 📌 Pinned Repositories  
-- 🔹 [Project 1](https://github.com/YourUsername/Project1)  
+- 🔹 [Blogrr](https://github.com/YourUsername/Blogrr)  
 - 🔹 [Project 2](https://github.com/YourUsername/Project2)  
 - 🔹 [Project 3](https://github.com/YourUsername/Project3)  
 
