@@ -44,9 +44,9 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 📌 Pinned Repositories  
-- 🔹 [Blogrr](https://github.com/TeeHigh/Blogrr)  
-- 🔹 [Data Structures & Algorithms](https://github.com/TeeHigh/Data-Structures-Algorithms)  
-- 🔹 [SCD Detection with Ensemble Learning](https://github.com/TeeHigh/SCD-Prediction-with-Ensemble-Learning)  
+- [Blogrr](https://github.com/TeeHigh/Blogrr)  
+- [Data Structures & Algorithms](https://github.com/TeeHigh/Data-Structures-Algorithms)  
+- [SCD Detection with Ensemble Learning](https://github.com/TeeHigh/SCD-Prediction-with-Ensemble-Learning)  
 
 ---
 </div>
