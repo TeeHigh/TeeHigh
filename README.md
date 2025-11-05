@@ -21,12 +21,12 @@ You can click the Preview link to take a look at your changes.
 - **Frameworks:** Tailwind, SASS/SCSS, Styled Components, React, Angular, Django 
 - **Tools:** Git, Supabase, Azure DevOps, Figma 
 
----
+<!-- ---
 
 ## 🌟 Highlights  
 - 🏆 **[Achievement/Recognition]**  
 - 💡 Creator of **[Project or Initiative]**  
-- 🌍 Contributed to **[Open Source Projects or Communities]**
+- 🌍 Contributed to **[Open Source Projects or Communities]** -->
 
 --- 
 
