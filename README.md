@@ -28,11 +28,12 @@ You can click the Preview link to take a look at your changes.
 - 💡 Creator of **[Project or Initiative]**  
 - 🌍 Contributed to **[Open Source Projects or Communities]**
 
-<!-- --- 
+--- 
 
   ## 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeeHigh&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeeHigh&layout=compact&theme=radical) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeeHigh&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeeHigh&layout=compact&langs_count=6&theme=radical)
 
 ---
 
